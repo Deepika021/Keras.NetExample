@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZ52C/9JU5IaJ/ZplEbAghQ5PtSakVSqISsy6mGIFCGkvP8/H/DyvtapiyV+Y8zSafFdxnJqcQZyLXpMFtspdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\CoreLSTM\\CoreLSTM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Event Forte 4\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
+    "C:\\Users\\Event Forte 4\\.nuget\\packages\\keras.net\\3.7.4.2\\keras.net.3.7.4.2.nupkg.sha512",
+    "C:\\Users\\Event Forte 4\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Event Forte 4\\.nuget\\packages\\numpy.bare\\3.7.1.11\\numpy.bare.3.7.1.11.nupkg.sha512",
+    "C:\\Users\\Event Forte 4\\.nuget\\packages\\numsharp.lite\\0.1.7\\numsharp.lite.0.1.7.nupkg.sha512",
+    "C:\\Users\\Event Forte 4\\.nuget\\packages\\protobuf.text\\0.4.0\\protobuf.text.0.4.0.nupkg.sha512",
+    "C:\\Users\\Event Forte 4\\.nuget\\packages\\python\\3.7.7\\python.3.7.7.nupkg.sha512",
+    "C:\\Users\\Event Forte 4\\.nuget\\packages\\python.runtime.netstandard\\3.7.1\\python.runtime.netstandard.3.7.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Event Forte 4\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Event Forte 4\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Event Forte 4\\.nuget\\packages\\tensorflow.net\\0.15.1\\tensorflow.net.0.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
